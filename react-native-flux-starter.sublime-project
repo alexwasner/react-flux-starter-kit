@@ -1,0 +1,22 @@
+{
+	"folders":
+	[
+		{
+			"file_exclude_patterns":
+			[
+				"*.sublime*",
+				"*.md",
+				"*.min",
+				"*.min.*",
+				"*/app.css"
+			],
+			"folder_exclude_patterns":
+			[
+				"build",
+				"tasks",
+				"node_modules"
+			],
+			"path": "."
+		}
+	]
+}

@@ -1,0 +1,41 @@
+@header_height:100px;
+@footer_height:100px;
+@blue:#1C5289;
+
+.button, .btn {
+  display: block;
+  width: 100%;
+  margin: 0 auto;
+  text-align: center;
+  cursor: pointer;
+  letter-spacing: 0px;
+  outline:0;
+  border:0;
+  background:@blue;
+  color: white;
+  height:44px;
+  line-height: 44px;
+  .border-radius(3px);
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-size: 16px;
+  max-width:400px;
+  margin:0 auto;
+  .transform(translate3d(0,0,0));
+  &.selected{
+    background:white;
+    color:@blue;
+  }
+  &.Tappable-active{
+    opacity: 0.9;
+  }
+  &.Tappable-inactive{
+    opacity: 1;
+  }
+  &.disabled{
+    opacity: 0.5;
+    &.touch{
+      opacity: 0.5;
+    }
+  }
+}

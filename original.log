@@ -1,0 +1,23 @@
+commit 3faed05ee202cbaf6c642010aac79ff0e972515a
+Author: Alex Wasner <alex.wasner@gmail.com>
+Date:   Fri Feb 5 22:37:10 2016 -0600
+
+    Removed image assets from old projects
+
+commit 9811c7b71341bef04093a915b6ae2dc98818afa5
+Author: Alex Wasner <alex.wasner@gmail.com>
+Date:   Fri Feb 5 22:36:16 2016 -0600
+
+    Removed a bunch of junk from other projects
+
+commit c95b521a1363330a41053009c64b827473f48b71
+Author: Alex Wasner <alex.wasner@gmail.com>
+Date:   Fri Feb 5 22:33:44 2016 -0600
+
+    Changed README port to 8085
+
+commit 13e11a60f65c43adcd9c6eee3e0273e235ea1d39
+Author: Alex Wasner <alex.wasner@gmail.com>
+Date:   Fri Feb 5 22:29:29 2016 -0600
+
+    initial commit
